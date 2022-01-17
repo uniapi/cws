@@ -1,0 +1,32 @@
+# Solution files
+solution.*
+solution-*.*
+
+# Include ecrypted solution files
+!solution.*.enc
+!solution-*.*.enc
+
+# Test files
+test
+
+# Case generator files
+gecase.c
+
+# Generated main files
+.main.*
+
+# Object files
+*.o
+*.elf
+a.out
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.so
+*.dll
+
+# Firmware
+*.hex
