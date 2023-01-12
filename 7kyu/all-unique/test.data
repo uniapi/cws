@@ -1,0 +1,24 @@
+"\5x01c72w96\r\ny35b84\4", true
+"  nAa",	false
+"abcde",	true
+
+"++-",		false
+"AaBbC",	true
+
+"ABCDEFGH", true
+"1357924680acegikmoqsuwybdfhjlnprtvxz", true
+"1357924680acegikmoqsuwybdfhjlnprtvxz1", false
+
+"1357924680acegikmoqsuwybdfhjlnprtvxzACEGIKMOQSU", true
+"1357924680acegikmoqsuwybdfhjlnprtvxzACEGIKMOQS3", false
+
+"1357924680acegikmoqsuwybdfhjlnprtvxzACEGIKMOQSU5", false
+"1357924680acegikmoqsuwybdfhjlnprtvxzACEGIKMOQSUW", true
+
+"1357924680acegikmoqsuwybdfhjlnprtvxzACEGIKMOQSUWY", true
+"1357924680acegikmoqsuwybdfhjlnprtvxzACEGIKMOQSUW7", false
+
+"13579246809acegikmoqsuwybdfhjlnprtvxzACEGIKMOQSUW", false
+"1357924680aceg9ikmoqsuwybdfhjlnprtvxzACEGIKMOQSUW", false
+
+"\r\nNew Lins?", true
