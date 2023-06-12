@@ -1,0 +1,24 @@
+"hello_world", false
+"PassW0rd",	true
+"     ", false
+"a", true
+"__ * __", false
+"C0D3WARS", true
+"&)))(((", false
+"43534h56jmTHHF3k",	true
+"", false
+
+"AG7VXyCmrY8zx3lR82e0gFVs2a7K0J74ax99102B7O18TcC6a6NwRT031EjB6t19DusweR1t650Lat4zUrp8h5HJ8", true
+
+"43534h56jmTHHF3k", true /* m1 */
+"43534h56jmTHHF3k43534h56jmTHHF3k", true /* m2 */
+"43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k", true /* m4 */
+"43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k", true /* m8 */
+        
+"!3534h56jmTHHF3k", false /* m1 */
+"43534h56jmTHHF3k43534h56jmTHHF~k", false /* m2 */
+"43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF`k", false /* m4 */
+"43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k43534h56jmTHHF3k_", false /* m8 */
+        
+"V#1.0<S>?[v]{x}~", false
+"~handling[128]vector{lanes}at_once is INdeed (SeRious*POWER)", false
