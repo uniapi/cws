@@ -1,0 +1,13 @@
+"vowelOne", "01010101"
+"abcdefghijklmnopqrstuvwxyz", "10001000100000100000100000"
+"", ""
+"a", "1"
+"b", "0"
+"aeiouxyz", "11111000"
+
+"onetwothreefourfivesixseveneightnineteneleventwelvethirteenfourteenfifteensixteenseventeeneighteennineteen" \
+	"twentythirtyfourtyfiftysixtyseventyeightyninetyhundredthousandmillionmilliardtrillionquadrillionquintillion" \
+	"sextillionseptillionoctillionnonilliondecillion", \
+	"1010010001101100101010010101100001010101010100010010010011001100110010011001001100101001101100011001010110" \
+	"00100000100001100001000010000101000110000010100010001000110100010011001001100001001100110010011001100100110" \
+	"01001001100100100110100100110010100110010100110"
