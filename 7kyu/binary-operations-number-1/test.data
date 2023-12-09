@@ -1,0 +1,7 @@
+0, 1, 1
+1, 1, 0
+0, 16, 32768
+127, 8, 255
+INT_MAX, sizeof(int) * CHAR_BIT - 1, (1 << sizeof(int) * CHAR_BIT - 2) - 1
+UINT_MAX, sizeof(unsigned) * CHAR_BIT, INT_MAX,
+INT_MAX, sizeof(int) * CHAR_BIT, UINT_MAX
