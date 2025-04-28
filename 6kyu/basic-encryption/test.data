@@ -1,0 +1,10 @@
+"", 1, ""
+"a", 1, "b"
+"please encrypt me", 2, "rngcug\"gpet{rv\"og"
+"Not encrypted? Why?", 512, "Not encrypted? Why?"
+"#RISCVEveryyear", 5, "(WNXH[J{jw~~jfw"
+"What a nice weather today! Maybe tomorrow i am going to meet AI?", 261, \
+	"\\mfy%f%snhj%|jfymjw%ytif~&%Rf~gj%ytrtwwt|%n%fr%ltnsl%yt%rjjy%FND"
+"^RISCV^ [EVERY] ;YEAR=", 800, "~riscv~@{every}@[year]"
+"Pardon! No excuse!", 1025, "Qbsepo\"!Op!fydvtf\""
+"Nobody knows when!", 2147483651, "Qrerg|#nqrzv#zkhq$"
