@@ -1,0 +1,5 @@
+0, ARRAY(char *, "tail", "body", "head"), ARRAY(char *, "head", "body", "tail")
+sizeof(short), ARRAY(short, 104, 98, 116), ARRAY(short, 116, 98, 104)
+sizeof(char), ARRAY(char, 't', 'b', 'h'), ARRAY(char, 'h', 'b', 't')
+sizeof(int), ARRAY(int, 84, 66, 72), ARRAY(int, 72, 66, 84)
+sizeof(long), ARRAY(long, 1413564748, 1112491097, 1212498244), ARRAY(long, 1212498244, 1112491097, 1413564748)
